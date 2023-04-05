@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **HTML, CSS, C#, Java, Python and JS**
 
-- 🤝 I’m looking for help with Java 
+- 🤝 I’m looking for help with Java and SQL 
 
 - 📫 How to reach me: mattiaccioc@gmail.com
 
