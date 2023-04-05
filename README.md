@@ -3,7 +3,7 @@
 <h3>A little more about me...</h3>
 
 
-- 📚 I’m currently learning **HTML, CSS, C#, Java, Python and JS**
+- 📚 I’m a beginner, i'm currently learning **HTML, CSS, C#, Java, Python and JS**
 
 - 🤝 I’m looking for help with Java and SQL 
 
